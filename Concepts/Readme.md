@@ -9,3 +9,5 @@
 ![image](https://github.com/Vagabong328/Diploim/assets/97594467/6f2e180e-8561-4ba5-8262-7c5dfd4fe76d)
 
 ![image](https://github.com/Vagabong328/Diploim/assets/97594467/768bbfe6-9467-4d56-ae74-766ed8e4a8cc)
+
+![image](https://github.com/Vagabong328/Diploim/assets/97594467/e06cb83f-a2f2-4930-a7a5-f3377d6d3f5b)
