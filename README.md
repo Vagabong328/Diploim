@@ -13,3 +13,4 @@ WPF-приложение:
 1. Приложение для кинотеатра. Аналог к примеру, приложение КИНО от Синема Парк
 2. Используемые ПО: Visual Studio 2019, SQL Server Managment
 
+https://drive.google.com/drive/folders/1XIgqYn3zfGymgph0kdsiEfjuHPral2yA?usp=sharing
