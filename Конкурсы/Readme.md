@@ -1,5 +1,7 @@
 ![image](https://github.com/Vagabong328/Diploim/assets/97594467/ad97fe8a-cf2c-45de-a66b-b18ee144e0e0)
 
+![Screenshot_20240120-113349](https://github.com/Vagabong328/Diploim/assets/97594467/160489f7-e020-47cc-8706-b6f842c1fb32)
+
 ![image](https://github.com/Vagabong328/Diploim/assets/97594467/448c652e-5b84-41a8-895f-ba8e36e64bba)
 
 ![image](https://github.com/Vagabong328/Diploim/assets/97594467/64b53bcc-b59a-4456-9cc6-a25367e56bc8)
@@ -11,5 +13,4 @@
 ![image](https://github.com/Vagabong328/Diploim/assets/97594467/99bad914-fd0f-44d9-8a77-bf65eac81d94)
 
 [mpdf (1).pdf](https://github.com/Vagabong328/Diploim/files/13997147/mpdf.1.pdf)
-
 
